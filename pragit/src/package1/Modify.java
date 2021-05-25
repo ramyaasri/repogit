@@ -1,8 +1,8 @@
 package package1;
 
-public class Hello {
+public class Modify {
 	public static void main(String[] args) {
-		System.out.println("Hiii");
+		System.out.println("Modified");
 	}
 
 }
